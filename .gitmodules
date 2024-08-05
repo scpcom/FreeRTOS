@@ -1,0 +1,4 @@
+[submodule "Source"]
+	path = Source
+	url = https://github.com/scpcom/FreeRTOS-Kernel
+	branch = licheervnano
